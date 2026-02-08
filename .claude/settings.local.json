@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(lsof:*)",
+      "Bash(xargs kill:*)",
+      "Bash(/Users/harimgemmajung/Documents/Claude/backend/venv/bin/pip install:*)",
+      "Bash(/Users/harimgemmajung/Documents/Claude/backend/venv/bin/python:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(./venv/bin/python:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(python -c:*)",
+      "Bash(xargs:*)"
+    ]
+  }
+}
